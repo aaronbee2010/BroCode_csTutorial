@@ -1,0 +1,15 @@
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.csproj.AssemblyReference.cache
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.AssemblyInfoInputs.cache
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.AssemblyInfo.cs
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.csproj.CoreCompileInputs.cache
+E:\csTutorial\3_Variables\bin\Debug\net7.0\3_Variables.exe
+E:\csTutorial\3_Variables\bin\Debug\net7.0\3_Variables.deps.json
+E:\csTutorial\3_Variables\bin\Debug\net7.0\3_Variables.runtimeconfig.json
+E:\csTutorial\3_Variables\bin\Debug\net7.0\3_Variables.dll
+E:\csTutorial\3_Variables\bin\Debug\net7.0\3_Variables.pdb
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.dll
+E:\csTutorial\3_Variables\obj\Debug\net7.0\refint\3_Variables.dll
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.pdb
+E:\csTutorial\3_Variables\obj\Debug\net7.0\3_Variables.genruntimeconfig.cache
+E:\csTutorial\3_Variables\obj\Debug\net7.0\ref\3_Variables.dll

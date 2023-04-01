@@ -1,0 +1,15 @@
+E:\csTutorial\2_Output\bin\Debug\net7.0\2_Output.exe
+E:\csTutorial\2_Output\bin\Debug\net7.0\2_Output.deps.json
+E:\csTutorial\2_Output\bin\Debug\net7.0\2_Output.runtimeconfig.json
+E:\csTutorial\2_Output\bin\Debug\net7.0\2_Output.dll
+E:\csTutorial\2_Output\bin\Debug\net7.0\2_Output.pdb
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.csproj.AssemblyReference.cache
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.AssemblyInfoInputs.cache
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.AssemblyInfo.cs
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.csproj.CoreCompileInputs.cache
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.dll
+E:\csTutorial\2_Output\obj\Debug\net7.0\refint\2_Output.dll
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.pdb
+E:\csTutorial\2_Output\obj\Debug\net7.0\2_Output.genruntimeconfig.cache
+E:\csTutorial\2_Output\obj\Debug\net7.0\ref\2_Output.dll
