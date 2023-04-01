@@ -1,0 +1,15 @@
+E:\csTutorial\8_BasicArithmetic\bin\Debug\net7.0\8_BasicArithmetic.exe
+E:\csTutorial\8_BasicArithmetic\bin\Debug\net7.0\8_BasicArithmetic.deps.json
+E:\csTutorial\8_BasicArithmetic\bin\Debug\net7.0\8_BasicArithmetic.runtimeconfig.json
+E:\csTutorial\8_BasicArithmetic\bin\Debug\net7.0\8_BasicArithmetic.dll
+E:\csTutorial\8_BasicArithmetic\bin\Debug\net7.0\8_BasicArithmetic.pdb
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.csproj.AssemblyReference.cache
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.AssemblyInfoInputs.cache
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.AssemblyInfo.cs
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.csproj.CoreCompileInputs.cache
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.dll
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\refint\8_BasicArithmetic.dll
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.pdb
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\8_BasicArithmetic.genruntimeconfig.cache
+E:\csTutorial\8_BasicArithmetic\obj\Debug\net7.0\ref\8_BasicArithmetic.dll

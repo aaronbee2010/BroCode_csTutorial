@@ -1,0 +1,15 @@
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.csproj.AssemblyReference.cache
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.AssemblyInfoInputs.cache
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.AssemblyInfo.cs
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.csproj.CoreCompileInputs.cache
+E:\csTutorial\9_RandomNumbers\bin\Debug\net7.0\9_RandomNumbers.exe
+E:\csTutorial\9_RandomNumbers\bin\Debug\net7.0\9_RandomNumbers.deps.json
+E:\csTutorial\9_RandomNumbers\bin\Debug\net7.0\9_RandomNumbers.runtimeconfig.json
+E:\csTutorial\9_RandomNumbers\bin\Debug\net7.0\9_RandomNumbers.dll
+E:\csTutorial\9_RandomNumbers\bin\Debug\net7.0\9_RandomNumbers.pdb
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.dll
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\refint\9_RandomNumbers.dll
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.pdb
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\9_RandomNumbers.genruntimeconfig.cache
+E:\csTutorial\9_RandomNumbers\obj\Debug\net7.0\ref\9_RandomNumbers.dll

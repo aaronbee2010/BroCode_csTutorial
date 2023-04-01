@@ -1,0 +1,15 @@
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.csproj.AssemblyReference.cache
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.AssemblyInfoInputs.cache
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.AssemblyInfo.cs
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.csproj.CoreCompileInputs.cache
+E:\csTutorial\7_ArithmeticOperators\bin\Debug\net7.0\7_ArithmeticOperators.exe
+E:\csTutorial\7_ArithmeticOperators\bin\Debug\net7.0\7_ArithmeticOperators.deps.json
+E:\csTutorial\7_ArithmeticOperators\bin\Debug\net7.0\7_ArithmeticOperators.runtimeconfig.json
+E:\csTutorial\7_ArithmeticOperators\bin\Debug\net7.0\7_ArithmeticOperators.dll
+E:\csTutorial\7_ArithmeticOperators\bin\Debug\net7.0\7_ArithmeticOperators.pdb
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.dll
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\refint\7_ArithmeticOperators.dll
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.pdb
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\7_ArithmeticOperators.genruntimeconfig.cache
+E:\csTutorial\7_ArithmeticOperators\obj\Debug\net7.0\ref\7_ArithmeticOperators.dll
