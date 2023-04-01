@@ -1,0 +1,15 @@
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.csproj.AssemblyReference.cache
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.AssemblyInfoInputs.cache
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.AssemblyInfo.cs
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.csproj.CoreCompileInputs.cache
+E:\csTutorial\17_NestedLoops\bin\Debug\net7.0\17_NestedLoops.exe
+E:\csTutorial\17_NestedLoops\bin\Debug\net7.0\17_NestedLoops.deps.json
+E:\csTutorial\17_NestedLoops\bin\Debug\net7.0\17_NestedLoops.runtimeconfig.json
+E:\csTutorial\17_NestedLoops\bin\Debug\net7.0\17_NestedLoops.dll
+E:\csTutorial\17_NestedLoops\bin\Debug\net7.0\17_NestedLoops.pdb
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.dll
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\refint\17_NestedLoops.dll
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.pdb
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\17_NestedLoops.genruntimeconfig.cache
+E:\csTutorial\17_NestedLoops\obj\Debug\net7.0\ref\17_NestedLoops.dll
