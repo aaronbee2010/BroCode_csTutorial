@@ -1,0 +1,15 @@
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.csproj.AssemblyReference.cache
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.AssemblyInfoInputs.cache
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.AssemblyInfo.cs
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.csproj.CoreCompileInputs.cache
+E:\csTutorial\19_RockPaperScissors\bin\Debug\net7.0\19_RockPaperScissors.exe
+E:\csTutorial\19_RockPaperScissors\bin\Debug\net7.0\19_RockPaperScissors.deps.json
+E:\csTutorial\19_RockPaperScissors\bin\Debug\net7.0\19_RockPaperScissors.runtimeconfig.json
+E:\csTutorial\19_RockPaperScissors\bin\Debug\net7.0\19_RockPaperScissors.dll
+E:\csTutorial\19_RockPaperScissors\bin\Debug\net7.0\19_RockPaperScissors.pdb
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.dll
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\refint\19_RockPaperScissors.dll
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.pdb
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\19_RockPaperScissors.genruntimeconfig.cache
+E:\csTutorial\19_RockPaperScissors\obj\Debug\net7.0\ref\19_RockPaperScissors.dll
