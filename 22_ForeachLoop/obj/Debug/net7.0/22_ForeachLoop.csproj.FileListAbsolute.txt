@@ -1,0 +1,15 @@
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.csproj.AssemblyReference.cache
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.AssemblyInfoInputs.cache
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.AssemblyInfo.cs
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.csproj.CoreCompileInputs.cache
+E:\csTutorial\22_ForEachLoop\bin\Debug\net7.0\22_ForeachLoop.exe
+E:\csTutorial\22_ForEachLoop\bin\Debug\net7.0\22_ForeachLoop.deps.json
+E:\csTutorial\22_ForEachLoop\bin\Debug\net7.0\22_ForeachLoop.runtimeconfig.json
+E:\csTutorial\22_ForEachLoop\bin\Debug\net7.0\22_ForeachLoop.dll
+E:\csTutorial\22_ForEachLoop\bin\Debug\net7.0\22_ForeachLoop.pdb
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.dll
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\refint\22_ForeachLoop.dll
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.pdb
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\22_ForeachLoop.genruntimeconfig.cache
+E:\csTutorial\22_ForEachLoop\obj\Debug\net7.0\ref\22_ForeachLoop.dll
