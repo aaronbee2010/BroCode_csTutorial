@@ -1,0 +1,15 @@
+E:\csTutorial\12_IfStatements\bin\Debug\net7.0\12_IfStatements.exe
+E:\csTutorial\12_IfStatements\bin\Debug\net7.0\12_IfStatements.deps.json
+E:\csTutorial\12_IfStatements\bin\Debug\net7.0\12_IfStatements.runtimeconfig.json
+E:\csTutorial\12_IfStatements\bin\Debug\net7.0\12_IfStatements.dll
+E:\csTutorial\12_IfStatements\bin\Debug\net7.0\12_IfStatements.pdb
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.csproj.AssemblyReference.cache
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.AssemblyInfoInputs.cache
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.AssemblyInfo.cs
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.csproj.CoreCompileInputs.cache
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.dll
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\refint\12_IfStatements.dll
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.pdb
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\12_IfStatements.genruntimeconfig.cache
+E:\csTutorial\12_IfStatements\obj\Debug\net7.0\ref\12_IfStatements.dll
