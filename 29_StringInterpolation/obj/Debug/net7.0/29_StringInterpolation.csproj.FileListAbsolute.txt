@@ -1,0 +1,15 @@
+E:\csTutorial\29_StringInterpolation\bin\Debug\net7.0\29_StringInterpolation.exe
+E:\csTutorial\29_StringInterpolation\bin\Debug\net7.0\29_StringInterpolation.deps.json
+E:\csTutorial\29_StringInterpolation\bin\Debug\net7.0\29_StringInterpolation.runtimeconfig.json
+E:\csTutorial\29_StringInterpolation\bin\Debug\net7.0\29_StringInterpolation.dll
+E:\csTutorial\29_StringInterpolation\bin\Debug\net7.0\29_StringInterpolation.pdb
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.csproj.AssemblyReference.cache
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.AssemblyInfoInputs.cache
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.AssemblyInfo.cs
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.csproj.CoreCompileInputs.cache
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.dll
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\refint\29_StringInterpolation.dll
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.pdb
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\29_StringInterpolation.genruntimeconfig.cache
+E:\csTutorial\29_StringInterpolation\obj\Debug\net7.0\ref\29_StringInterpolation.dll
