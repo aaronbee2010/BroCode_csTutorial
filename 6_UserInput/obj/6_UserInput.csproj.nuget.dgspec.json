@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\csTutorial\\6_UserInput\\6_UserInput.csproj": {}
+  },
+  "projects": {
+    "E:\\csTutorial\\6_UserInput\\6_UserInput.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\csTutorial\\6_UserInput\\6_UserInput.csproj",
+        "projectName": "6_UserInput",
+        "projectPath": "E:\\csTutorial\\6_UserInput\\6_UserInput.csproj",
+        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
+        "outputPath": "E:\\csTutorial\\6_UserInput\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

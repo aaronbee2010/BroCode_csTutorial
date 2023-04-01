@@ -1,0 +1,15 @@
+E:\csTutorial\5_Typecasting\bin\Debug\net7.0\5_Typecasting.exe
+E:\csTutorial\5_Typecasting\bin\Debug\net7.0\5_Typecasting.deps.json
+E:\csTutorial\5_Typecasting\bin\Debug\net7.0\5_Typecasting.runtimeconfig.json
+E:\csTutorial\5_Typecasting\bin\Debug\net7.0\5_Typecasting.dll
+E:\csTutorial\5_Typecasting\bin\Debug\net7.0\5_Typecasting.pdb
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.csproj.AssemblyReference.cache
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.AssemblyInfoInputs.cache
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.AssemblyInfo.cs
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.csproj.CoreCompileInputs.cache
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.dll
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\refint\5_Typecasting.dll
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.pdb
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\5_Typecasting.genruntimeconfig.cache
+E:\csTutorial\5_Typecasting\obj\Debug\net7.0\ref\5_Typecasting.dll

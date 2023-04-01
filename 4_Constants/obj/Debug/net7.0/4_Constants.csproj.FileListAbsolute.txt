@@ -1,0 +1,15 @@
+E:\csTutorial\4_Constants\bin\Debug\net7.0\4_Constants.exe
+E:\csTutorial\4_Constants\bin\Debug\net7.0\4_Constants.deps.json
+E:\csTutorial\4_Constants\bin\Debug\net7.0\4_Constants.runtimeconfig.json
+E:\csTutorial\4_Constants\bin\Debug\net7.0\4_Constants.dll
+E:\csTutorial\4_Constants\bin\Debug\net7.0\4_Constants.pdb
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.csproj.AssemblyReference.cache
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.AssemblyInfoInputs.cache
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.AssemblyInfo.cs
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.csproj.CoreCompileInputs.cache
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.dll
+E:\csTutorial\4_Constants\obj\Debug\net7.0\refint\4_Constants.dll
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.pdb
+E:\csTutorial\4_Constants\obj\Debug\net7.0\4_Constants.genruntimeconfig.cache
+E:\csTutorial\4_Constants\obj\Debug\net7.0\ref\4_Constants.dll
