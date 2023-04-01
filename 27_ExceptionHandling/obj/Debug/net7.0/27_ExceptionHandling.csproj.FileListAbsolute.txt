@@ -1,0 +1,15 @@
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.csproj.AssemblyReference.cache
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.AssemblyInfoInputs.cache
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.AssemblyInfo.cs
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\csTutorial\27_ExceptionHandling\bin\Debug\net7.0\27_ExceptionHandling.exe
+E:\csTutorial\27_ExceptionHandling\bin\Debug\net7.0\27_ExceptionHandling.deps.json
+E:\csTutorial\27_ExceptionHandling\bin\Debug\net7.0\27_ExceptionHandling.runtimeconfig.json
+E:\csTutorial\27_ExceptionHandling\bin\Debug\net7.0\27_ExceptionHandling.dll
+E:\csTutorial\27_ExceptionHandling\bin\Debug\net7.0\27_ExceptionHandling.pdb
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.dll
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\refint\27_ExceptionHandling.dll
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.pdb
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\27_ExceptionHandling.genruntimeconfig.cache
+E:\csTutorial\27_ExceptionHandling\obj\Debug\net7.0\ref\27_ExceptionHandling.dll
