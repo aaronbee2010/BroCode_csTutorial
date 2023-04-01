@@ -1,0 +1,15 @@
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.csproj.AssemblyReference.cache
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.AssemblyInfoInputs.cache
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.AssemblyInfo.cs
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.csproj.CoreCompileInputs.cache
+E:\csTutorial\14_LogicalOperators\bin\Debug\net7.0\14_LogicalOperators.exe
+E:\csTutorial\14_LogicalOperators\bin\Debug\net7.0\14_LogicalOperators.deps.json
+E:\csTutorial\14_LogicalOperators\bin\Debug\net7.0\14_LogicalOperators.runtimeconfig.json
+E:\csTutorial\14_LogicalOperators\bin\Debug\net7.0\14_LogicalOperators.dll
+E:\csTutorial\14_LogicalOperators\bin\Debug\net7.0\14_LogicalOperators.pdb
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.dll
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\refint\14_LogicalOperators.dll
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.pdb
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\14_LogicalOperators.genruntimeconfig.cache
+E:\csTutorial\14_LogicalOperators\obj\Debug\net7.0\ref\14_LogicalOperators.dll

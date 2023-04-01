@@ -1,0 +1,15 @@
+E:\csTutorial\15_WhileLoops\bin\Debug\net7.0\15_WhileLoops.exe
+E:\csTutorial\15_WhileLoops\bin\Debug\net7.0\15_WhileLoops.deps.json
+E:\csTutorial\15_WhileLoops\bin\Debug\net7.0\15_WhileLoops.runtimeconfig.json
+E:\csTutorial\15_WhileLoops\bin\Debug\net7.0\15_WhileLoops.dll
+E:\csTutorial\15_WhileLoops\bin\Debug\net7.0\15_WhileLoops.pdb
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.csproj.AssemblyReference.cache
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.AssemblyInfoInputs.cache
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.AssemblyInfo.cs
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.csproj.CoreCompileInputs.cache
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.dll
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\refint\15_WhileLoops.dll
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.pdb
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\15_WhileLoops.genruntimeconfig.cache
+E:\csTutorial\15_WhileLoops\obj\Debug\net7.0\ref\15_WhileLoops.dll
